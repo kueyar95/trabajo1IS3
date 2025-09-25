@@ -1,5 +1,8 @@
 data/hourly_42602_2020.csv
 # datos pesados
 data/NOX-2020-ext.csv
-.venv
+data/*.csv
+
+.venv/
 __pycache__/
+*.pyc
