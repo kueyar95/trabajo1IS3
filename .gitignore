@@ -1,0 +1,5 @@
+# Archivos pesados que no deben ir al repo
+data/hourly_42602_2020.csv
+data/NOX-2020.csv
+data/nox.csv
+*.zip
