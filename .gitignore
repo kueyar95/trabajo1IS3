@@ -4,3 +4,11 @@ data/NOX-2020.csv
 data/nox.csv
 *.zip
 data/hourly_42602_2020.csv
+# Lab
+data/NOX-2020.csv
+TS-NOX-202.png
+
+# Python
+.venv/
+__pycache__/
+*.pyc
