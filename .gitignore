@@ -12,3 +12,4 @@ TS-NOX-202.png
 .venv/
 __pycache__/
 *.pyc
+data/NOX-2020-ext.csv
